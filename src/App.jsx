@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import { line } from './App.module.css'
 import Skills from "./Skills.jsx"
 import Projects from "./Projects.jsx"
